@@ -1,0 +1,13 @@
+C:\Users\Zahra\source\repos\DVDCollectionApplication\DVDCollectionApplication\bin\Debug\netcoreapp3.1\DVDCollectionApplication.exe
+C:\Users\Zahra\source\repos\DVDCollectionApplication\DVDCollectionApplication\bin\Debug\netcoreapp3.1\DVDCollectionApplication.deps.json
+C:\Users\Zahra\source\repos\DVDCollectionApplication\DVDCollectionApplication\bin\Debug\netcoreapp3.1\DVDCollectionApplication.runtimeconfig.json
+C:\Users\Zahra\source\repos\DVDCollectionApplication\DVDCollectionApplication\bin\Debug\netcoreapp3.1\DVDCollectionApplication.runtimeconfig.dev.json
+C:\Users\Zahra\source\repos\DVDCollectionApplication\DVDCollectionApplication\bin\Debug\netcoreapp3.1\DVDCollectionApplication.dll
+C:\Users\Zahra\source\repos\DVDCollectionApplication\DVDCollectionApplication\bin\Debug\netcoreapp3.1\DVDCollectionApplication.pdb
+C:\Users\Zahra\source\repos\DVDCollectionApplication\DVDCollectionApplication\obj\Debug\netcoreapp3.1\DVDCollectionApplication.csprojAssemblyReference.cache
+C:\Users\Zahra\source\repos\DVDCollectionApplication\DVDCollectionApplication\obj\Debug\netcoreapp3.1\DVDCollectionApplication.AssemblyInfoInputs.cache
+C:\Users\Zahra\source\repos\DVDCollectionApplication\DVDCollectionApplication\obj\Debug\netcoreapp3.1\DVDCollectionApplication.AssemblyInfo.cs
+C:\Users\Zahra\source\repos\DVDCollectionApplication\DVDCollectionApplication\obj\Debug\netcoreapp3.1\DVDCollectionApplication.csproj.CoreCompileInputs.cache
+C:\Users\Zahra\source\repos\DVDCollectionApplication\DVDCollectionApplication\obj\Debug\netcoreapp3.1\DVDCollectionApplication.dll
+C:\Users\Zahra\source\repos\DVDCollectionApplication\DVDCollectionApplication\obj\Debug\netcoreapp3.1\DVDCollectionApplication.pdb
+C:\Users\Zahra\source\repos\DVDCollectionApplication\DVDCollectionApplication\obj\Debug\netcoreapp3.1\DVDCollectionApplication.genruntimeconfig.cache

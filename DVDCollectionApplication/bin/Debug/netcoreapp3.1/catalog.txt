@@ -1,0 +1,5 @@
+Amadeus,Drama,160,1984,14.83
+As Good As It Gets,Drama,139,1998,11.3
+Dreamer,Romance,12,1989,200
+NewSongs,Dram,120,1980,12
+OldSongs,Romance,10,2000,12
