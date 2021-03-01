@@ -34,12 +34,12 @@ namespace DVDCollectionApplication
         }
         public void editDVD(string title, string category, double time, int releasedYear, double price)
         {
-            //This is a dummy method since it is not required for our assignment to be implemented
+            //This is a dummy method 
             Console.WriteLine(title + "has been removed from our Collection");
         }
         public void displayDVDByYear(int year)
         {
-            //This method is not required by our assignment.
+            
             Console.WriteLine("We do not have any DVD that have been released in this year");
             
         }
@@ -94,10 +94,6 @@ namespace DVDCollectionApplication
         
         public void saveCatalog()
         {
-            /*System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\Zahra\source\repos\DVDCollectionApplication\DVDCollectionApplication\bin\Debug\netcoreapp3.1\catalog.txt");
-            for (int i = 0; i < currentDVD; i++)
-                file.WriteLine(DVDs[i].title + ',' + DVDs[i].category + ',' + DVDs[i].time + ',' + DVDs[i].releasedYear + ',' + DVDs[i].price);
-            */
             string[] s = new string[currentDVD];
             for (int i = 0; i < currentDVD; i++)
                 s[i] = DVDs[i].title + ',' + DVDs[i].category + ',' + DVDs[i].time + ',' + DVDs[i].releasedYear + ',' + DVDs[i].price;
